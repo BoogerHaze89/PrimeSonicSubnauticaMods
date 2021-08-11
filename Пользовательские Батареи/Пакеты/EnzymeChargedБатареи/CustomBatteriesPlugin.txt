@@ -2,7 +2,7 @@
 (
     # Originally created by SeraphimRisen #
     PluginPackName:EnzymeChargedBatteries;
-    BatteryCapacity:1000;
+    BatteryCapacity:100000;
     UnlocksWith:HatchingEnzymes;
     BatteryID:EnzymeBattery;
     BatteryName:"Enzyme-Charged Ion Battery";
